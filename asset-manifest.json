@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/hcireact/static/css/main.947abab3.chunk.css",
+    "main.js": "/hcireact/static/js/main.f6c31cd3.chunk.js",
+    "main.js.map": "/hcireact/static/js/main.f6c31cd3.chunk.js.map",
+    "runtime-main.js": "/hcireact/static/js/runtime-main.2da39217.js",
+    "runtime-main.js.map": "/hcireact/static/js/runtime-main.2da39217.js.map",
+    "static/css/2.5c17b9f1.chunk.css": "/hcireact/static/css/2.5c17b9f1.chunk.css",
+    "static/js/2.d3cfb087.chunk.js": "/hcireact/static/js/2.d3cfb087.chunk.js",
+    "static/js/2.d3cfb087.chunk.js.map": "/hcireact/static/js/2.d3cfb087.chunk.js.map",
+    "index.html": "/hcireact/index.html",
+    "precache-manifest.62cc0e870f12dc9a8f591e607f6daada.js": "/hcireact/precache-manifest.62cc0e870f12dc9a8f591e607f6daada.js",
+    "service-worker.js": "/hcireact/service-worker.js",
+    "static/css/2.5c17b9f1.chunk.css.map": "/hcireact/static/css/2.5c17b9f1.chunk.css.map",
+    "static/css/main.947abab3.chunk.css.map": "/hcireact/static/css/main.947abab3.chunk.css.map",
+    "static/js/2.d3cfb087.chunk.js.LICENSE.txt": "/hcireact/static/js/2.d3cfb087.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/hcireact/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2da39217.js",
+    "static/css/2.5c17b9f1.chunk.css",
+    "static/js/2.d3cfb087.chunk.js",
+    "static/css/main.947abab3.chunk.css",
+    "static/js/main.f6c31cd3.chunk.js"
+  ]
+}
